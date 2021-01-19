@@ -9,3 +9,6 @@ b l u e
 i n d i g o
 v i o l e t
 t r a n s p a r e n t
+
+The unicorn has turned into a pony
+and the poem suddenly reduced whitespace
